@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/markneto/Todos.git/static/css/main.12f9dfd9.css",
+    "main.js": "/markneto/Todos.git/static/js/main.ef0daac9.js",
+    "static/js/787.9edc70c5.chunk.js": "/markneto/Todos.git/static/js/787.9edc70c5.chunk.js",
+    "index.html": "/markneto/Todos.git/index.html",
+    "main.12f9dfd9.css.map": "/markneto/Todos.git/static/css/main.12f9dfd9.css.map",
+    "main.ef0daac9.js.map": "/markneto/Todos.git/static/js/main.ef0daac9.js.map",
+    "787.9edc70c5.chunk.js.map": "/markneto/Todos.git/static/js/787.9edc70c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f9dfd9.css",
+    "static/js/main.ef0daac9.js"
+  ]
+}
